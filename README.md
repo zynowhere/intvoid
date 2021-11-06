@@ -1,7 +1,7 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/zynowhere/intvoid/blob/main/resources/banner.png" alt="Hello world">
-https://github.com/zynowhere/intvoid/blob/main/resources/banner.png
+<img src="https://raw.githubusercontent.com/zynowhere/intvoid/main/resources/banner.png" alt="Hello world">
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/zynowhere/count.svg" />
@@ -20,7 +20,6 @@ This Ive，evilive.
 ## Get in touch :coffee:
 
 - Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/IveZhu).
-- 
 - And of course GitHub you're already on (Recursion).
 
 
