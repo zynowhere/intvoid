@@ -1,17 +1,15 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
+<img src="https://raw.githubusercontent.com/zynowhere/intvoid/blob/main/resources/banner.png" alt="Hello world">
+https://github.com/zynowhere/intvoid/blob/main/resources/banner.png
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/zynowhere/count.svg" />
 </p>
 
 ## About me
 
-I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
-
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+This Ive，evilive.
 
 
 ## Things I am passionate about
@@ -21,9 +19,8 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
+- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/IveZhu).
+- 
 - And of course GitHub you're already on (Recursion).
 
 
