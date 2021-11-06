@@ -22,7 +22,8 @@ This Ive，evilive.
 - Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/IveZhu).
 - And of course GitHub you're already on (Recursion).
 
-
+##
+thx sagar-viradiya (https://github.com/sagar-viradiya)
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
