@@ -23,7 +23,7 @@ This Ive，evilive.
 - And of course GitHub you're already on (Recursion).
 
 ##
-thx sagar-viradiya (https://github.com/sagar-viradiya)
+thx [sagar-viradiya](https://github.com/sagar-viradiya)
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
