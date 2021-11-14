@@ -1,13 +1,11 @@
-# Hey there :wave:
-
-<img src="https://raw.githubusercontent.com/zynowhere/intvoid/main/resources/banner.png" alt="Hello world">
+# intvoid
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/zynowhere/count.svg" />
 </p>
 
-## About me
+<!--## About me
 
 This Ive，evilive.
 
