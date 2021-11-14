@@ -1,0 +1,1 @@
+git pull && /usr/local/bin/node add.js && git commit -a -m 'downdate' && git push origin main
