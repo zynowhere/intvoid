@@ -1,1 +1,1 @@
-git commit -a -m 'downdate' && git push origin main
+git pull && node add.js && git commit -a -m 'downdate' && git push origin main
